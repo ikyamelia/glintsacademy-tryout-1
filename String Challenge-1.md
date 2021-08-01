@@ -4,15 +4,16 @@ Have the function StringChallenge(str) take the str parameter being passed and c
 
 Examples
 
+```
 Input: "hello world"
-
 Output: Hello World
-
+```
+```
 Input: "i ran there"
-
 Output: I Ran There
+```
 
-
+Solution
 
 ```
 function StringChallenge(str) { 
